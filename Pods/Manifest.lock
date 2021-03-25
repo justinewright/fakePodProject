@@ -1,0 +1,16 @@
+PODS:
+  - TutSKImageExtension (0.1.0)
+
+DEPENDENCIES:
+  - TutSKImageExtension
+
+SPEC REPOS:
+  trunk:
+    - TutSKImageExtension
+
+SPEC CHECKSUMS:
+  TutSKImageExtension: 4b061c2c768c0eda508c360b1fcf83f74566ee3c
+
+PODFILE CHECKSUM: 93eca3c3d3ed52ed6af46f7c57f3221ff00fe802
+
+COCOAPODS: 1.10.1
